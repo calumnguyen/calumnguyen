@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## I am a Restaurant Tech Enthusiast and General Manager @ El Pollo Loco 💻 🐓 
+
+I bridge the gap between restaurant operations and technology, bringing hands-on experience from the fast-paced world of Quick Service Restaurants to the tech space.
+
+
+
 <!--
 **calumnguyen/calumnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
